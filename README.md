@@ -1,7 +1,7 @@
 DataBase table editor
 ===
 Editor connects to any database after authorization. The user can perform any actions with tables
-in the corresponding database.There is no need to update anything in the editor, as the program 
+in the corresponding database. There is no need to update anything in the editor, as the program 
 updates everything dynamically.
 
 > The editor accepts:
