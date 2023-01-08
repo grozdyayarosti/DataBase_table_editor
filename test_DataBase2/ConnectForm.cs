@@ -19,7 +19,7 @@ namespace test_DataBase2
         }
         private void ConnectForm_Load(object sender, EventArgs e)
         {
-            textBox_Server.Text = "192.168.0.104, 666";
+            textBox_Server.Text = "WIN-4S4CK5N38C2\\MSSQLSERVER2";
             textBox_Database.Text = "MyDBase";
             textBox_User_id.Text = "sa";
             textBox_Password.Text = "mssql";
